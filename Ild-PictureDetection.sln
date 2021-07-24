@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ild-PictureDetector", "Ild-PictureDetector\Ild-PictureDetector.csproj", "{A6AE81A4-F49F-49E0-87A3-501A95C10B66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ild-PictureRecognizer_lib", "Ild-PictureRecognizer_lib\Ild-PictureRecognizer_lib.csproj", "{5F870266-3FFF-4B6F-A0C5-BA0CC43528F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AE81A4-F49F-49E0-87A3-501A95C10B66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AE81A4-F49F-49E0-87A3-501A95C10B66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AE81A4-F49F-49E0-87A3-501A95C10B66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AE81A4-F49F-49E0-87A3-501A95C10B66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F870266-3FFF-4B6F-A0C5-BA0CC43528F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F870266-3FFF-4B6F-A0C5-BA0CC43528F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F870266-3FFF-4B6F-A0C5-BA0CC43528F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F870266-3FFF-4B6F-A0C5-BA0CC43528F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1930E059-10DC-46CD-8035-BF6259DFF165}
+	EndGlobalSection
+EndGlobal
