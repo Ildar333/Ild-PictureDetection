@@ -28,10 +28,8 @@ namespace Ild_PictureDetector
         public MainWindow()
         {
             InitializeComponent();
-            cmbDetect.IsEnabled = false;
+            cmbDetect.IsEnabled = true;
             btnDetect.IsEnabled = false;
-            imgDetected.IsEnabled = false;
-            imgDetectedGray.IsEnabled = false;
             btnCamera.IsEnabled = false;
             imgMain.Source = new BitmapImage(new Uri(Environment.CurrentDirectory + "/Image Sources/wait_image.png"));
             imgDetected.Source = new BitmapImage(new Uri(Environment.CurrentDirectory + "/Image Sources/detector.png"));
